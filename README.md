@@ -1,2 +1,2 @@
-# derbyhacks
-derbyhacks 2017 repository
+# DerbyHacks2
+DerbyHacks 2017 repository containing our project "SmartDollHouse"
